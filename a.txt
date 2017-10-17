@@ -1,3 +1,2 @@
 install java
-install c
-insatll tomcat
+install c++
